@@ -1,0 +1,4 @@
+com\virgingames\testbase\TestBase.class
+com\virgingames\cucumber\CucumberRunner.class
+com\virgingames\virgingamesinfo\GetAllRecord.class
+com\virgingames\virgingamesinfo\VirginGameAssertDemo.class
